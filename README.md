@@ -51,8 +51,8 @@ https://jd-invite.vercel.app/
 ---
 
 ## 📸 Screenshot
-![Engagement Invite Screenshot](./JD invite.jpeg)
 
+<img width="1763" height="4576" alt="Image" src="https://github.com/user-attachments/assets/bf0b9d42-2f49-458c-84cf-fba26cfc4b78" />
 ---
 
 ## ⚙️ Installation
