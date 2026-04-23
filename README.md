@@ -75,3 +75,4 @@ Deploy easily using Vercel by importing your GitHub repository.
 
 Made with ❤️ by Maya Patel
 
+---
