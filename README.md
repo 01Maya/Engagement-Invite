@@ -45,7 +45,7 @@ Built with clean UI/UX principles ensuring responsiveness, elegance, and perform
 ---
 
 ## 🌐 Preview
-https://your-vercel-app-url.vercel.app
+[https://your-vercel-app-url.vercel.app](https://jd-invite.vercel.app/)
 
 ---
 
