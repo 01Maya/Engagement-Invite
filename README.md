@@ -71,8 +71,8 @@ Deploy easily using Vercel by importing your GitHub repository.
 
 ---
 
-## 💡 Author
+## 💡 Author 
 
-Made with ❤️ by Maya Patel
+Made with ❤️ by Maya Patel 🌻
 
 ---
