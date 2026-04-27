@@ -44,7 +44,7 @@ Built with clean UI/UX principles ensuring responsiveness, elegance, and perform
 
 ---
 
-## 🌐 Preview
+## 🌐 Preview 🔗
 
 https://jd-invite.vercel.app/
 
@@ -67,7 +67,7 @@ npm run dev
 
 ---
 
-## 🚀 Deployment
+## 🚀 Deployment 
 
 Deploy easily using Vercel by importing your GitHub repository.
 
