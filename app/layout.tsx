@@ -17,7 +17,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Juhi & Devang - Engagement Celebration',
+  title: 'Juhi & Devang - Engagement Celebration 💍',
   description: 'Join us as Juhi and Devang celebrate their engagement. May this joyful union be blessed with love and prosperity.',
 }
 
