@@ -25,7 +25,7 @@ Built with clean UI/UX principles ensuring responsiveness, elegance, and perform
 
 ---
 
-## 🧩 Sections
+## 🧩 Sections 🗂️
 
 - **Hero:** Displays couple names with elegant intro and engagement announcement  
 - **Blessings:** Shows spiritual message and blessings for the couple  
