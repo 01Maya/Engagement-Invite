@@ -14,7 +14,7 @@ Built with clean UI/UX principles ensuring responsiveness, elegance, and perform
 
 ---
 
-## ✨ Features
+## ✨ Features 💎
 - Responsive design (mobile + desktop)
 - Smooth animations (Framer Motion)
 - Navigation to section (scroll effect)
